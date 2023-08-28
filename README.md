@@ -21,7 +21,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-![](https://github.com/azh23/codepath-prework/blob/main/codepathpreworkk.gif)
+![](https://i.imgur.com/acnqo1O.gif)
 
 GIF created with Kap
 
